@@ -1,2 +1,1 @@
-# flappy-bird
-pygame
+# Flappy-bird
